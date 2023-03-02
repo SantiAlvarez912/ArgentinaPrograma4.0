@@ -146,16 +146,28 @@
 .sb9{
   position: absolute;
   top: 154px;
+  right: 1002px;
+  margin: 0 135px;
 }
 .sb10{
   position: absolute;
   top: 235px;
+  margin: 0 135px;
+
 }
 .sb11{
+  position: absolute;
+
   bottom: 189px;
+  margin: 0 135px;
+
 }
 .sb12{
+  position: absolute;
+
   bottom: 111px;
+  margin: 0 135px;
+
 }
 .sb9:after {
   content: "";
